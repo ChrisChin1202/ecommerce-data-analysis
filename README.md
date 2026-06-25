@@ -14,6 +14,9 @@
 專案分析角度工具成果顧客 RFM 分群客戶Python + Power BI客戶分 8 群,提出差異化行銷建議營收趨勢分析營收Python + SQL + Tableau月趨勢、明星商品、市場貢獻分析
 
 🔗 Tableau 互動儀表板:https://public.tableau.com/app/profile/chinyuchen/viz/_17822938018340/1
+![Power BI RFM 儀表板](power%20bi%20RFM%20儀表板.png)
+![Tableau 營收趨勢儀表板](tableau%20電商營收趨勢分析儀表板.png)
+
 
 
 🗂️ 檔案說明
